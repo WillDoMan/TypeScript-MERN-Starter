@@ -1,4 +1,4 @@
-# TypeScript MERN Starter
+# TypeScript MERN Starter 
 
 [![Build Status](https://api.travis-ci.org/shanhuiyang/TypeScript-MERN-Starter.svg?branch=master)](https://travis-ci.org/shanhuiyang/TypeScript-MERN-Starter)
 [![Dependency Status](https://david-dm.org/shanhuiyang/TypeScript-MERN-Starter.svg)](https://david-dm.org/shanhuiyang/TypeScript-MERN-Starter)
